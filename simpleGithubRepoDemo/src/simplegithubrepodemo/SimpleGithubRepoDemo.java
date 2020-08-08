@@ -15,8 +15,8 @@ public class SimpleGithubRepoDemo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       System.out.println("Hi from Github");
-       System.out.println("Bye Bonds!");
+       System.out.println("fardles was here");
+       System.out.println("forth commit");
     }
     
 }
