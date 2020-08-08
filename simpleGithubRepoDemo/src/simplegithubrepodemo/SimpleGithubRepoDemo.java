@@ -16,7 +16,7 @@ public class SimpleGithubRepoDemo {
      */
     public static void main(String[] args) {
        System.out.println("Hi from Github");
-       System.out.println("Hi yerself!");
+       System.out.println("Bye Bonds!");
     }
     
 }
